@@ -1,9 +1,9 @@
 #ps2pdf converter
-##Operating system support
-Windows only since ghostscript service is used internally.
-
 ##What is ps2pdf
 ps2pdf is a CLI based tool which is used for bulk convert from PS files to PDF files
+
+##Operating system support
+Windows only since ghostscript service is used internally.
 
 ##How to use is
 This tool is very simple and easy to use, after downloading it, put all your `.ps` files in `files` directory and run `convert.bat` file, by clicking on it.
