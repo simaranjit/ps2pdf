@@ -41,7 +41,7 @@ $info = pathinfo('files/'.$file);
 $name = $info['filename'];
 $extension = $info['extension'];
 $percent = round($i/$total*100);
-	echo "Fixing file: ". 'files/'.$file." ($percent%)\n";
+	echo "Converting file: ". 'files/'.$file." ($percent%)\n";
 	if ($extension == 'ps') {
 		$command = 'utils\ghost\gs9.19\bin\gswin32c.exe ^ -sDEVICE=pdfwrite ^ -o "files/'.$name.'.pdf" ^ "files/'.$file.'"';
 	
