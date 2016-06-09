@@ -27,7 +27,7 @@ Converting file: files/sample - Copy (11).ps (9%)
 Converting file: files/sample - Copy (110).ps (9%)
 ````
 
-When 100% progress is done, go to files directory and you will see that all of your `.ps` files have been converted to `.psd`
+When 100% progress is done, go to `files` directory and you will see that all of your `.ps` files have been converted to `.pdf`
 
 *Note:* Your old files will get removed, Make sure that you have backup of those.
 
