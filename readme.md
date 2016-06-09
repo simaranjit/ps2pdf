@@ -2,7 +2,7 @@
 ##Operating system support
 Windows only since ghostscript service is used internally.
 
-##What is psd2pdf
+##What is ps2pdf
 ps2pdf is a CLI based tool which is used for bulk convert from PS files to PDF files
 
 ##How to use is
