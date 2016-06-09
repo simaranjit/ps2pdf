@@ -1,4 +1,4 @@
-#ps2pdf
+#ps2pdf converter
 ##Operating system support
 Windows only since ghostscript service is used internally.
 
