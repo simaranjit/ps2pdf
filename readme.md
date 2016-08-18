@@ -32,5 +32,5 @@ When 100% progress is done, go to `files` directory and you will see that all of
 *Note:* Your old files will get removed, Make sure that you have backup of those.
 
 ##Licensing
-Please read Licensing of Ghost services before using this serices and use this software accordingly.
+Please read Licensing of Ghost services if you want to use it for business purpose. Here is the license page.
 http://www.ghostscript.com/download/gsdnld.html
